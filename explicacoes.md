@@ -1,1 +1,1 @@
-
+A verdade é que eu preferi entregar meio trabalho a entregar nenhum trabalho. Peço desculpas, eu não me programei bem e meu semestre foi uma bola de neve. Fiz o projeto em uma tarde (e noite). Espero que eu possa fazer melhor (e bem feito, lindão) no próximo
