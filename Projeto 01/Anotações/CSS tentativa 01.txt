@@ -1,0 +1,71 @@
+ @import 
+url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&display=swap');
+
+:root {
+--nav-links-color: #fff;
+--button-hover-color: #878584;
+--backoffice-menu-bg: #343a40;
+--table-head-bg: #e9ecef;
+--nav-link-hover-color: #f79800;
+--footer-color: #e3e3e3;
+--dark-layer: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6));
+--edit-button-color: #ffa207;
+--delete-button-color: #dc3545;
+--pagination-active-bg: #007bff;
+--font: 'Montserrat', sans-serif;
+--imagem: ".backgroundPhoto";
+
+}
+
+.topo {
+    background-image: --dark-layer, var(--imagem);
+    background-size: cover;
+    background-position: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 2% 5%;
+    display: flex;
+    text-align: right;
+}
+.title {
+    text-align: left;
+}
+.lista {
+    justify-content: center;
+    align-items: center;
+    border: #343a40;
+}
+.topoLista {
+    display: flex;
+    width: 75%; height: 10%;
+    -webkit-background-composite: border;
+    background-color: var(--footer-color);
+    font: var(--font);
+}
+.identifyLista {
+    text-align: justify;
+}
+.pag {
+    width: 42px;
+    text-align: center;
+    cursor: pointer;
+}
+.seta {
+    cursor: pointer;
+}
+.opções {
+    -webkit-background-composite: border;
+    background-color: var(--backoffice-menu-bg);
+}
+.opc {
+    cursor: pointer;
+    font-family: var(--font);
+    display: flex;
+    color: var(--nav-links-color);
+}
+.footer {
+    background-color: var(--footer-color);
+    display: flex;
+    text-align: justify;
+    color: --;
+}

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="estiloso.css">
+    <title>Dinnerdash</title>
+
+</head>
+<body>
+    <div class="topo" width="100%" height="35%">
+        <div class="backgroundPhoto">
+            <img src="img_bg_backoffice_usuario.jpg" alt="Foto da empresa, pessoas trabalhando." width="100%" height="30%">
+        </div>
+        <div class="title">
+            <h1>Backoffice</h1>
+            <div class="subtitle">
+                <h3>Gerencie pedidos, refeições e mais</h3>
+            </div>
+        </div>
+
+        <div class="linha_maneira">
+            <h3 class="opcIni">dinnerdash</h3>
+            <h4 class="opc">backoffice</h4>
+            <h4 class="opc">perfil</h4>
+            <h4 class="opc">sair</h4>
+        </div>
+
+    </div>
+
+
+    <div class="opções">
+        <p class="opc">Pedidos</p>
+        <p class="opc">Usuários</p>
+        <p class="opc">Refeições</p>
+        <p class="opc">Categorias de Refeição</p>
+    </div>
+
+    <div class="lista">
+
+        <div class="topoLista">
+            <h2 class="identifyLista">Nome</h2>
+            <h2 class="identifyLista">Email</h2>
+            <h2 class="identifyLista">Cadastrado em</h2>
+        </div>
+
+        <div class="elementos"></div>
+            <p id="1" class="nome">Lauren Shaxby</p>
+            <p id="e1" class="email">lshaxby0@php.net</p>
+            <p id="d1" class="dia">16/10/2021</p>
+            <br>
+            <p id="2" class="nome">Ardenia Paddingdon</p>
+            <p id="e2" class="email">appadingdon1@nsw.gov.au</p>
+            <p id="d2" class="dia">27/07/2021</p>
+            <br>
+            <p id="3" class="nome">Renaldo Alenichev</p>
+            <p id="e3" class="email">ralenichev2@ftc.gov</p>
+            <p id="d3" class="dia">10/06/2021</p>
+            <br>
+            <p id="4" class="nome">Nichole Oheneghan</p>
+            <p id="e4" class="email">noheneghan3@flavors.me</p>
+            <p id="d4" class="dia">28/06/2021</p>
+            <br>
+            <p id="5" class="nome">Haywood Daintry</p>
+            <p id="e5" class="email">hdaintry4@nhs.uk</p>
+            <p id="d5" class="dia">18/03/2021</p>
+            <br>
+            <p id="6" class="nome">Leslie Dalie</p>
+            <p id="e6" class="email" >ldaile5@vimeo.com</p>
+            <p id="d6" class="dia">23/05/2021</p>
+            <br>
+            <p id="7" class="nome">Byrann Slorance</p>
+            <p id="e7" class="email">bslorance6@kickstarter.com</p>
+            <p id="d7" class="dia">15/05/2021</p>
+            <br>
+            <p id="8" class="nome">My Swendell</p>
+            <p id="e8" class="email">mswendell7@moonfruit.com</p>
+            <p id="d8" class="dia">15/12/2021</p>
+            <br>
+            <p id="9" class="nome">Brier Esson</p>
+            <p id="e9" class="email">besson8@usa.gov</p>
+            <p id="d9" class="dia">14/03/2021</p>
+            <br>
+            <p id="10" class="nome">Seth Piddle</p>
+            <p id="e10" class="email">spiddle9@nationalgeographic.com</p>
+            <p id="d10" class="dia">20/10/2021</p>
+            <br>
+            <p id="11" class="nome">Fer Piddle</p>
+            <p id="e11" class="email">ferspiddle9@nationalgeographic.com</p>
+            <p id="d11" class="dia">20/10/2022</p>
+            <br>
+    </div>
+    <div class="paginas_but">
+        <button type="button" class="seta">left</button>
+        <button type="button" class="pag">1</button>
+        <button type="button" class="pag" disabled>2</button>
+        <button type="button" class="pag" disabled>3</button>
+        <button type="button" class="pag" disabled>3</button>
+        <button type="button" class="seta">right</button>
+    </div>
+
+    <div class="footer">
+        <p>dinnerdash | todos os direitos reservados</p>
+        <p>desenvolvido por João Victor Marques Leal</p>
+    </div>
+</body>
+</html>
