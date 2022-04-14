@@ -17,6 +17,6 @@ Primeiro projeto na CJR
 
 
 
-
+---
 ### POR FAVOR, só clique se estiver curioso(a) ou decepcionado(a)
 * [Devidas explicações](https://github.com/JoaoVML42/Projeto01/blob/main/explicacoes.md)
