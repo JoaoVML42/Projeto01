@@ -11,3 +11,4 @@ Primeiro projeto na CJR
 ---
 
 ---
+* [Devidas explicações para o trabalho estar incompleto](https://github.com/JoaoVML42/Projeto01/blob/main/explicacoes.md)
